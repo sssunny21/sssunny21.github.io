@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: 박은선
 permalink: /about/
 ---
 
-Some information about you!
+성공회대학교 소프트웨어공학과 재학중
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[esun19@gmail.com](mailto:esun19@gmail.com)
